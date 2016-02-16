@@ -1875,7 +1875,7 @@
   padding: 100px 0;
   position: relative;
   text-align: center;
-  background: url(../img/team/faces-back.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/cornfield.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-quote:after {
@@ -1982,7 +1982,7 @@
 /*Parallax Team
 ------------------------------------*/
 .parallax-team {
-  background: url(../img/team/faces-back.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/cornfield.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -2003,7 +2003,7 @@
 
 /*Parallax Team*/
 .parallax-team {
-  background: url(../img/team/faces-back.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/cornfield.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
